@@ -1,0 +1,11 @@
+0 RiderRequest Almond 8,2 5,5 15
+0 RiderRequest Bisque 10,6 1,1 20
+10 DriverRequest Amaranth 6,5 1
+20 RiderRequest Desert 9,4 6,7 5
+
+25 DriverRequest Crocus 9,3 1
+25 DriverRequest Bergamot 6,12 1
+
+25 RiderRequest Fallow 6,3 8,2 10
+37 RiderRequest Cerise 6,12 3,7 0
+45 RiderRequest Egg 7,2 4,9 0
